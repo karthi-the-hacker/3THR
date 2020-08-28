@@ -31,7 +31,7 @@ Example
                3:::::::::::::::33         tt:::::::::::tth:::::h     h:::::hR::::::R     R:::::R  
                 333333333333333             ttttttttttt  hhhhhhh     hhhhhhhRRRRRRRR     RRRRRRR  
  
-                                      Authour : @karthi_the_hacker 
+                                      Author : @karthi_the_hacker 
                                           Tool Name:   3THR 
                                                  Jai Hind  
 Note After using m4skup tool use this 
