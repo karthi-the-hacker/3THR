@@ -4,7 +4,7 @@ clear
    echo "Note After using m4skup tool use this "
    echo ""
    read -p "Enter the full path with m4skup file name: " fl
-   read -p "Enter comany name: " comp
+   read -p "Enter company name: " comp
    mkdir ~/recon/$comp &> /dev/null
    n=1
    cd ~/recon/$comp/ 
