@@ -13,14 +13,14 @@ clear
 port=$1
 if  [ $port = "all" ]&> /dev/null ;
   then
-       echo "runing port scan for all"
+       echo "running port scan for all"
        echo ""
        while read ip ;
            do 
               sudo masscan $ip -p 0-65535 -Pn | tee -a all.txt
         done < $fl
 else
-   echo "scaning for particular service"
+   echo "scanning for particular service"
    echo ""
     while read line;do
          sudo masscan $line -p25,2525,110,143,995,993,821,587,465 -Pn >> smtp.txt
