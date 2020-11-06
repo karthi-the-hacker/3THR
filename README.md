@@ -10,6 +10,8 @@ Find and Filter all open ports
 5. chmod +x 3THR.sh
 6. chmod +x .banner
 7. ./3THR.sh
+# for all port scan
+./3THR all
 
 Example 
 
